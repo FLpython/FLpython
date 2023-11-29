@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FLpython
 - 👀 I’m interested in Python and data engineering
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on learning and building data pipes
+- 💞️ I’m looking to collaborate on building data pipes
 
 
 <!---
